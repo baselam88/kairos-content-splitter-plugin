@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Splits one anchor asset into 4-5 native derivatives \u2014 60s short script, text post (hook in first 210 chars), reel script, email version \u2014 each rewritten for its surface.",
+  "keywords": [
+    "content",
+    "kairos",
+    "small business",
+    "splitter"
+  ],
+  "license": "MIT",
+  "name": "kairos-content-splitter",
+  "repository": "https://github.com/baselam88/kairos-content-splitter-plugin",
+  "version": "0.1.0"
+}
